@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-dunny
 - 👀 I’m interested in ... Relational Databases and OO programming
-- 🌱 I’m currently learning ... how to play sweet child o mine on air guitar
-- 💞️ I’m looking to collaborate on ... literally doesn't matter to me i dont ca
+- 🌱 I’m currently learning ... kotlin/android dev
+- 💞️ I’m looking to collaborate on ... spring.io projects
 - 📫 How to reach me ... dunny.tech
 
 <!---
